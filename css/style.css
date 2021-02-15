@@ -52,7 +52,6 @@ body #mainContentbottom a
 body .mainContent
 {
 	#padding: 5px 5px 0px 5px;	
-	background-color :#80808038;
 	border-color: black;
 	border-style: solid;
 	color : black;
@@ -64,7 +63,6 @@ body .mainContent
 body #mainContent
 {	
 	#padding: 5px 5px 0px 5px;
-	background-color :#80808038;
 	border-color: black;
 	border-style: hidden;
 	color : black;
