@@ -3,7 +3,7 @@ require("layout.php");
 $layout = new LayoutClass;
 $layout->startNewRow();
     $layout->startNewCol("sm-11",";padding-left:0px;padding-right:0px;border-style: hidden solid hidden solid;","mainContent");
-    $layout->write("Nom : Martin</a><a style='float:right'>Age : 21 ans</a>","position:relative;float:left;",true);
+    $layout->write("Nom : Martin</a><a style='float:right'>Age : 23 ans</a>","position:relative;float:left;",true);
         $layout->write("Français</a><a style='float:left'> Prénom : Rohan</a>","position:relative;float:right;",true);
         $layout->write("Permis B + Véhicule personnel<br>","float:right;text-align:center;",true);
         $layout->startNewCol("sm-5","float:left;position:right;border-style:hidden;margin-right:25px;margin-left:10px;","contact");
