@@ -33,10 +33,10 @@ $layout->startNewRow();
 $layout->endAnyDiv();
 $layout->startNewRow();
     $layout->startNewCol("sm-5","text-align:left;border-left-style:solid;","mainContentleft");
-        $layout->write("  · Micro-informatique<br>  · Informatique<br>  · Langages de programmation informatique</a>","line-height: 2.5;");
+        $layout->write("  ·Installation et configuration d'un système sous Linux/Windows<br>  · Créer et assembler un poste informatique<br>  · Utiliser Github</a>","line-height: 2.5;");
     $layout->endAnyDiv();
     $layout->startNewCol("sm-6","text-align:left;border-right-style:solid;","mainContentright");
-    $layout->write("· Procédures de déploiement d'installation<br>· Procédures d'entretien de matériel informatique<br>· Électronique & électricité</a>","line-height: 2.5;");
+    $layout->write("· Installer et configurer WAMP/XAMP <br>· Créer une maquette en HTML/CSS<br>· mise en place d'un environnement Laravel</a>","line-height: 2.5;");
     $layout->endAnyDiv();
 
 $layout->endAnyDiv();
